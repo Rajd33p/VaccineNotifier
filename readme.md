@@ -2,7 +2,7 @@
 
 # CowinSlotNotifier
 
-This a fully aSync client with a telegram bot intregrated
+This a fully aSync client with a telegram bot integrated
 to scan and notify users when a vaccination slot is available.
 ## Installation
 
