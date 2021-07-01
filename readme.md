@@ -4,6 +4,7 @@
 
 This a fully aSync client with a telegram bot integrated
 to scan and notify users when a vaccination slot is available.
+By default only 18+ slot not 45+ (easy to change check line no. 43 in main.py
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/).
