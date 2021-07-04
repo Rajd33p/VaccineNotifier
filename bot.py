@@ -136,7 +136,6 @@ async def send_welcome(message: types.Message):
            md.text(
                md.text("Hi!\nI'm GetVaccinated!"),
                md.text("I will ping you when a slot is available"),
-               md.text("Currently Tracking", md.bold(732101), "for 18+ slot"),
                md.text(md.bold("To check tracking status use /track")),
                md.text("Planned Feature : Autobook :)"),
                md.text("Made with ❤️ by @Rajd333p"),
